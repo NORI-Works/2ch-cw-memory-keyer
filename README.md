@@ -4,6 +4,7 @@ ATtiny85あるいはArduinoを使用したコンパクトで多機能な2CHメ�
 省電力設計とEEPROMによるメッセージ保存機能を備えており、移動運用やQRPリグでの使用に最適です。
 
 ## 特徴
+- **キーイングモード**: スクイズ操作（両方のレバーを閉じる操作）に対応したIambic Mode Bを採用。
 - **2CHメッセージメモリ**: 80符号(スペース含む)までのメッセージをCH1とCH2の2つまで不揮発メモリEEPROMに保存。メッセージは打鍵により入力
 - **Mode選択**:Modeボタンで各種動作を選択(Mode1:キー速度調整 / Mode2:メッセージ記憶 / Mode3:キー速度記憶)
 - **キー速度調整**: 外部ボタン(CH1+/CH2-)により、10～30WPMで変更可能(Mode3でEEPROMに保存可能)
@@ -56,6 +57,7 @@ ATtiny85あるいはArduinoを使用したコンパクトで多機能な2CHメ�
 This is a compact, multi-functional 2-channel CW memory keyer built with **ATtiny85**.
 
 ### Key Features
+- **Keying Mode**: Iambic Mode B (Squeeze keying supported).
 - **2-Channel Message Memory**: Stores up to 80 characters per channel in EEPROM.
 - **Fail-Safe "Tx Guard"**: While in configuration modes (Mode 1-3), 
 　　　　　　　　　　　　　　　　  transmitter output is suppressed. Guided by LED/Buzzer only.
