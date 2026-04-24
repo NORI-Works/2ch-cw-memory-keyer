@@ -95,3 +95,10 @@ This project is licensed under the **GNU General Public License v3.0 (GPL v3.0)*
 
 ---
 Developed by **N.Nagae (JI2OJV) / NORI-Works**
+
+<div align="center">
+  <img src="images/ek_hardware_photo_1.jpg" width="30%" alt="内部基板">
+  <img src="images/ek_hardware_photo_2.jpg" width="30%" alt="配線の様子">
+  <img src="images/ek_hardware_photo_3.jpg" width="30%" alt="外観">
+  <p><em>左から：内部基板、配線の様子、外観</em></p>
+</div>
