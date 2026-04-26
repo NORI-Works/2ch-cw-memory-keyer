@@ -59,8 +59,7 @@ This is a compact, multi-functional 2-channel CW memory keyer built with **ATtin
 ### Key Features
 - **Keying Mode**: Iambic Mode B (Squeeze keying supported).
 - **2-Channel Message Memory**: Stores up to 80 characters per channel in EEPROM.
-- **Fail-Safe "Tx Guard"**: While in configuration modes (Mode 1-3), 
-　　　　　　　　　　　　　　　　  transmitter output is suppressed. Guided by LED/Buzzer only.
+- **Fail-Safe "Tx Guard"**: While in configuration modes (Mode 1-3),transmitter output is suppressed. Guided by LED/Buzzer only.
 - **Physical Tx/Tone Switch**: Easily toggle between actual transmission and side-tone practice.
 - **Ultra-Low Power**: Optimized for battery operation (e.g., CR2032).
 
